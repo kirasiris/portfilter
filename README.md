@@ -14,7 +14,3 @@ Usage
 Requisites
 ----------
 	jQuery (http://jquery.com/)
-About
------
-http://geedmo.com
-
